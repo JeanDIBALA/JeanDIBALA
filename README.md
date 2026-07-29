@@ -116,8 +116,8 @@ I'm currently pursuing a Bachelor's degree in Information Technology while expan
 
 ### Academic Credentials
 <div>
-<img src="https://img.shields.io/badge/-IT_Professional_Certificate_Ensign_College-8B0000?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-Technical_Support_Engineer_Certificate_Ensign_College-8B0000?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-IT_Professional_Certificate_Ensign_College-006645?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Technical_Support_Engineer_Certificate_Ensign_College-006645?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
