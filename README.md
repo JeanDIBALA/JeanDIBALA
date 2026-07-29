@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jean DIBALA! <br/><a href="https://www.linkedin.com/in/jdibala/">System Administrator, Network Engineer & Aspiring Cloud Security Engineer</a>, <a href="https://www.youtube.com/@dibalajean-s4e">YouTuber</a></h1>
+<h1>Hi, I'm Jean DIBALA! <br/><a href="https://www.linkedin.com/in/jdibala/">Systems Administrator | Cloud Infrastructure Engineer | Cybersecurity Enthusiast</a>, <a href="https://www.youtube.com/@dibalajean-s4e">YouTuber</a></h1>
 
 I enjoy building secure infrastructures, automating IT operations, and creating enterprise-grade homelabs that simulate real-world business environments.
 
